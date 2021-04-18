@@ -8,7 +8,7 @@ My favorite programming language is Python and I have a lot of experience workin
 
 - Web Scraping
 - Reading PDFs
-- Data cleansing
+- Data cleaning
 - Solve Catpchas
 
 I also have knowledge of the Scala programming lenguage and I love how useful it is. I am learning Spark and creating some projects whit it. I invite you to check my repositories and give me your feedback.
